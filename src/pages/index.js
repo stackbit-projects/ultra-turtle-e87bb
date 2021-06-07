@@ -24,8 +24,6 @@ const IndexPage = () => (
     </section>
 
 
-
-    </section>
   </Layout>
 );
 

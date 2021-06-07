@@ -87,7 +87,7 @@ const IndexPage = () => (
         </div>
       </section>
 
-      </section>
+
     </section>
   </Layout>
 );
